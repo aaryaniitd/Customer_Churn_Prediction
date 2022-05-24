@@ -1,7 +1,7 @@
 # Customer_Churn_Prediction
-To predict whether a customer will stay at a place permanently or not depending on various factors.
+### To predict whether a customer will stay at a place permanently or not depending on various factors.
 
-
+## Approach
 I cleaned the data, which is a major part of this code, using pandas and numpy inbuilt methods.
 
 Then I converted data into numerical format for the neural network (which will implement) to work.
