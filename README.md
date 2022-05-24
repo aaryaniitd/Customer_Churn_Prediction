@@ -4,7 +4,7 @@
 ## Approach
 I cleaned the data, which is a major part of this code, using pandas and numpy inbuilt methods.
 
-Then I converted data into numerical format for the neural network (which will implement) to work.
+Then I converted data into numerical format for the neural network (which will be implemented later) to work.
 
 After that data is split into training and testing part.
 
